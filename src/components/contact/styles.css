@@ -1,0 +1,118 @@
+#contact {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+    background-color: black;
+    padding-bottom: 80px;
+}
+
+#contact h2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+    font-size: 38px;
+    border-bottom: 2px solid deeppink;
+    margin: 150px 0px 110px 0px;
+}
+
+#contact h3 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 5px;
+    font-weight: 500;
+    font-size: 22px;
+}
+
+#contact h4 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 10px;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+#contact a {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 30px;
+    font-weight: 500;
+    font-size: 20px;
+    color: deeppink;
+    transition: all 0.2s;
+}
+
+#contact a:hover {
+    transform: scale(1.03);
+    color: rgb(255, 110, 183);
+    text-decoration: underline;
+}
+
+#contact-send {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    padding: 10px;
+    color: white;
+    border: 1px solid deeppink;
+    transition: all 0.2s;
+    margin-bottom: 130px;
+}
+
+#contact-send:hover {
+    transform: scale(1.1);
+    background-color: deeppink;
+}
+
+#contact-send:focus {
+    outline: none;
+}
+
+#contact .input-contact {
+    width: 50%;
+    color: white;
+    border: 0px;
+    border-bottom: 1px solid rgba(255, 20, 145, 0.5);
+    margin-top: 30px;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgba(255, 255, 255, 0.1);
+    padding: 10px;
+    transition: all 0.2s;
+}
+
+#contact .input-contact:hover {
+    background-color: rgba(255, 255, 255, 0.24);
+}
+
+#contact .input-contact:focus {
+    outline: none;
+    background-color: rgba(255, 255, 255, 0.16);
+}
+
+#contact .textarea-contact {
+    width: 50%;
+    min-height: 130px;
+    margin-bottom: 50px;
+    padding: 10px;
+    color: white;
+    border: 0px;
+    border-bottom: 1px solid rgba(255, 20, 145, 0.5);
+    margin-top: 30px;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+#contact .textarea-contact:hover {
+    background-color: rgba(255, 255, 255, 0.24);
+}
+
+#contact .textarea-contact:focus {
+    outline: none;
+    background-color: rgba(255, 255, 255, 0.16);
+}
+
+form {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}

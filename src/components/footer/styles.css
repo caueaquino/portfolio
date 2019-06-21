@@ -1,0 +1,23 @@
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+    background-color: black;
+    border-top: 1px solid rgba(255, 20, 145, 0.5);
+    padding: 20px 0px;
+}
+
+footer h4, footer a{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 10px;
+    font-weight: 500;
+    font-size: 15px;
+}
+
+footer a:hover {
+    color: deeppink;
+    text-decoration: underline;
+}

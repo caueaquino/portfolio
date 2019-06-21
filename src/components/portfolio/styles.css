@@ -1,0 +1,27 @@
+#portfolio {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: black;
+    background-attachment: local;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    padding: 150px 0px;
+}
+
+#portfolio h2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+    font-size: 38px;
+    border-bottom: 2px solid deeppink;
+    margin-bottom: 130px;
+}
+
+#portfolio h3 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 5px;
+    font-weight: 500;
+    font-size: 22px;
+}
