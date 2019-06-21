@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.4f10712a.chunk.css",
+    "main.js": "/portfolio/static/js/main.40100dc7.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.40100dc7.chunk.js.map",
+    "runtime~main.js": "/portfolio/static/js/runtime~main.f308c8e6.js",
+    "runtime~main.js.map": "/portfolio/static/js/runtime~main.f308c8e6.js.map",
+    "static/js/2.3a026474.chunk.js": "/portfolio/static/js/2.3a026474.chunk.js",
+    "static/js/2.3a026474.chunk.js.map": "/portfolio/static/js/2.3a026474.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.04e68cf0b82a799ab5e9a8f7e5a6bb4f.js": "/portfolio/precache-manifest.04e68cf0b82a799ab5e9a8f7e5a6bb4f.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.4f10712a.chunk.css.map": "/portfolio/static/css/main.4f10712a.chunk.css.map",
+    "static/media/CaueAquinoNogueira_Curriculum.pdf": "/portfolio/static/media/CaueAquinoNogueira_Curriculum.ec26dfdc.pdf",
+    "static/media/styles.css": "/portfolio/static/media/background-main.1ef527c1.jpg",
+    "static/media/blog1.png": "/portfolio/static/media/blog1.f3d4d68f.png",
+    "static/media/blog2.png": "/portfolio/static/media/blog2.5c202bd5.png",
+    "static/media/blog3.png": "/portfolio/static/media/blog3.f565e9a1.png",
+    "static/media/me.JPG": "/portfolio/static/media/me.c972d3d7.JPG"
+  }
+}
