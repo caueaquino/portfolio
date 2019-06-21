@@ -39,3 +39,37 @@ a {
     font-size: 55px;
     line-height: 80%; 
 }
+
+@media only screen and (max-width: 1200px) {
+    #nav-bar .nav-item {
+        font-size: 15px;
+        height: 20px;
+        margin: 45px 15px 0px 15px !important;
+    }   
+
+    a {
+        margin: 25px !important;
+    }
+
+    #nav-bar h1 {
+        font-size: 30px;
+        margin: 5px 10px;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    #nav-bar .nav-item {
+        font-size: 12px;
+        height: 20px;
+        margin: 15px 10px 0px 10px!important;
+    }   
+
+    a {
+        margin: 5px !important;
+    }
+
+    #nav-bar h1 {
+        font-size: 18px;
+        margin: 2px 5px;
+    }
+}
