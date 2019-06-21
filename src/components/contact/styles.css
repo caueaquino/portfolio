@@ -116,3 +116,23 @@ form {
     justify-content: center;
     flex-direction: column;
 }
+
+a {
+    transition: all 0.2s;
+}
+
+a:hover {
+    transform: scale(1.15);
+}
+
+svg {
+    fill: rgb(255, 160, 255);
+}
+
+svg:hover {
+    fill: deeppink;
+}
+
+#social-media {
+    margin-top: 40px;
+}
